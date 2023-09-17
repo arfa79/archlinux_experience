@@ -7,7 +7,11 @@ $ makepkg -si && cd /tmp/
 $ git clone https://aur.archlinux.org/yaourt.git
 $ cd yaourt/
 $ makepkg -si
-2.perspolis --> youtubedl from AUR
+2.perspolis , smplayer , telegram-desktop from archlinux cn *
+pacman.conf :
+[archlinuxcn]
+Server = https://repo.archlinuxcn.org/$arch
+$ sudo pacman -Sy && sudo pacman -S archlinuxcn-keyring
 3.handbreak-cli handbreak-gtk *
 4.obs-studio *
 5.make *
@@ -22,6 +26,5 @@ $ makepkg -si
 extentions : caffeene, dash to dock, persian calender , blur my shell ,burn my windows , hide activate buttonmedia controls , open weather , frippy move clock , resource monitor , run cat*
 thems : macos *
 14.ocs-url from AUR https://aur.archlinux.org/ocs-url.git *
-15.VirtualBox
-16.kotatogram https://aur.archlinux.org/kotatogram-desktop.git
-17. vlc and mplayer https://aur.archlinux.org/mplayer-gui.git
+15.VirtualBox *
+16. ventoy from AUR https://aur.archlinux.org/ventoy-bin.git *
