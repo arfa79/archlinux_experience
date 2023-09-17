@@ -1,0 +1,27 @@
+1.yaourt *
+$ sudo pacman -S --needed base-devel git wget yajl
+$ cd /tmp
+$ git clone https://aur.archlinux.org/package-query.git
+$ cd package-query/
+$ makepkg -si && cd /tmp/
+$ git clone https://aur.archlinux.org/yaourt.git
+$ cd yaourt/
+$ makepkg -si
+2.perspolis --> youtubedl from AUR
+3.handbreak-cli handbreak-gtk *
+4.obs-studio *
+5.make *
+6.gcc *
+7.firefox *
+8.chromium *
+9.tweaks *
+10.shecan *
+11.iaut servers *
+12.p7zip *
+13.gnome shell extention and gnome extention indecator *
+extentions : caffeene, dash to dock, persian calender , blur my shell ,burn my windows , hide activate buttonmedia controls , open weather , frippy move clock , resource monitor , run cat*
+thems : macos *
+14.ocs-url from AUR https://aur.archlinux.org/ocs-url.git *
+15.VirtualBox
+16.kotatogram https://aur.archlinux.org/kotatogram-desktop.git
+17. vlc and mplayer https://aur.archlinux.org/mplayer-gui.git
