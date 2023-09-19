@@ -33,3 +33,6 @@ thems : macos *
 19.adding windows partitions https://wiki.archlinux.org/title/NTFS-3G
 20.libreoffice 
 21.adb
+22.Docker *
+23.Vim *
+24.postgresql *
