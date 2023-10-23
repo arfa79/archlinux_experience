@@ -36,3 +36,4 @@ thems : macos *
 22.Docker *
 23.Vim *
 24.postgresql *
+25.nekoray-bin for v2ray in arch https://aur.archlinux.org/packages/nekoray-bin
