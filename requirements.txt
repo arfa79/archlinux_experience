@@ -38,3 +38,4 @@ thems : macos *
 24.postgresql *
 25.nekoray-bin for v2ray in arch https://aur.archlinux.org/packages/nekoray-bin
 26.unrar for extracting the rar files
+27.
