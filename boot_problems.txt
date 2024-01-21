@@ -1,0 +1,8 @@
+if your boot partition needs more space and it can make you life hard :)
+ you have several options :
+
+ 1. using a bootable drive and arch iso to generate a new kernel build and solve it (until full space)
+ 2. dissable update (until systemd crashes)
+ 3. remove fall back and unessray files (fallback)
+ 4. make the boot partition biger and change uuid in fstab (recommended)
+ 
