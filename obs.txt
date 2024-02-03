@@ -1,0 +1,1 @@
+for solving the screen capture problem like black screen you should change wayland to xorg
