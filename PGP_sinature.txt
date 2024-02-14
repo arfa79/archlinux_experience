@@ -1,0 +1,5 @@
+can't update invalid or corrupted database
+try these:
+sudo rm -f /var/lib/pacman/sync/*
+sudo pacman-mirrors --continent
+sudo pacman -Syyu
