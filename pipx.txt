@@ -1,0 +1,2 @@
+# for upgrading pipx in arch linux you should use this command
+pipx inastall pipx
